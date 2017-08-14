@@ -1,0 +1,60 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "/Users/admin/Desktop/CORDOVA_PLUGIN_TEST/coolMethodPlugin/coolMethod",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "/Users/admin/Desktop/CORDOVA_PLUGIN_TEST/coolMethodPlugin/coolMethod",
+        "spec": "/Users/admin/Desktop/CORDOVA_PLUGIN_TEST/coolMethodPlugin/coolMethod",
+        "type": "directory"
+      },
+      "/Users/admin/Desktop/CORDOVA_PLUGIN_TEST/testPlugin/node_modules"
+    ]
+  ],
+  "_from": "../coolMethodPlugin/coolMethod",
+  "_id": "coolMethod@0.0.1",
+  "_inCache": true,
+  "_location": "/coolMethod",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "/Users/admin/Desktop/CORDOVA_PLUGIN_TEST/coolMethodPlugin/coolMethod",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "/Users/admin/Desktop/CORDOVA_PLUGIN_TEST/coolMethodPlugin/coolMethod",
+    "spec": "/Users/admin/Desktop/CORDOVA_PLUGIN_TEST/coolMethodPlugin/coolMethod",
+    "type": "directory"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "file:../coolMethodPlugin/coolMethod",
+  "_shasum": "49351bf83395b69d8da51e02389ceb7f1f1be6fb",
+  "_shrinkwrap": null,
+  "_spec": "/Users/admin/Desktop/CORDOVA_PLUGIN_TEST/coolMethodPlugin/coolMethod",
+  "_where": "/Users/admin/Desktop/CORDOVA_PLUGIN_TEST/testPlugin/node_modules",
+  "author": {
+    "name": "Mikhail Zoline"
+  },
+  "cordova": {
+    "id": "com-mikhailcreate-plugins-test",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "dependencies": {},
+  "description": "Test plugin to hack trough the paradigm of custom plugin development for iOS platform  ",
+  "devDependencies": {},
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-ios"
+  ],
+  "license": "ISC",
+  "name": "coolMethod",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "version": "0.0.1"
+}

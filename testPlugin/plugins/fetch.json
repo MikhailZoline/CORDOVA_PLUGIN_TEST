@@ -1,0 +1,26 @@
+{
+    "cordova-plugin-whitelist": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-whitelist@1"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "cordova-plugin-add-swift-support": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-add-swift-support"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "com-mikhailcreate-plugins-test": {
+        "source": {
+            "type": "local",
+            "path": "/Users/admin/Desktop/CORDOVA_PLUGIN_TEST/testPlugin/node_modules/coolMethod"
+        },
+        "is_top_level": true,
+        "variables": {}
+    }
+}

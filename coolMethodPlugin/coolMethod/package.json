@@ -1,0 +1,17 @@
+{
+  "name": "coolMethod",
+  "version": "0.0.1",
+  "description": "Test plugin to hack trough the paradigm of custom plugin development for iOS platform  ",
+  "cordova": {
+    "id": "com-mikhailcreate-plugins-test",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-ios"
+  ],
+  "author": "Mikhail Zoline",
+  "license": "ISC"
+}

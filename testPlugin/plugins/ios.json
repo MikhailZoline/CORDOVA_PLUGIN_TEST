@@ -1,0 +1,21 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-add-swift-support": {
+            "PACKAGE_NAME": "com.plugin.testapp"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.plugin.testapp"
+        },
+        "com-mikhailcreate-plugins-test": {
+            "PACKAGE_NAME": "com.plugin.testapp"
+        }
+    },
+    "dependent_plugins": {}
+}

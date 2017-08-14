@@ -1,0 +1,47 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {
+            "config.xml": {
+                "parents": {
+                    "/*": [
+                        {
+                            "xml": "<feature name=\"coolMethod\"><param name=\"ios-package\" value=\"coolMethod\" /></feature>",
+                            "count": 1
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    "installed_plugins": {
+        "cordova-plugin-add-swift-support": {
+            "PACKAGE_NAME": "com.plugin.testapp"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.plugin.testapp"
+        },
+        "com-mikhailcreate-plugins-test": {
+            "PACKAGE_NAME": "com.plugin.testapp"
+        }
+    },
+    "dependent_plugins": {},
+    "modules": [
+        {
+            "id": "com-mikhailcreate-plugins-test.coolMethod",
+            "file": "plugins/com-mikhailcreate-plugins-test/www/coolMethod.js",
+            "pluginId": "com-mikhailcreate-plugins-test",
+            "clobbers": [
+                "coolMethod"
+            ]
+        }
+    ],
+    "plugin_metadata": {
+        "cordova-plugin-add-swift-support": "1.7.0",
+        "cordova-plugin-whitelist": "1.3.2",
+        "com-mikhailcreate-plugins-test": "0.0.1"
+    }
+}
